@@ -10,4 +10,4 @@ on:
 jobs:
 
   pipeline:
-    uses: dms-sre/workflows/.github/workflows/pipeline.yml@v1
+    uses: dms-sre/workflows/.github/workflows/pipeline.yml@main
