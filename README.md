@@ -1,4 +1,1 @@
 # valida-pipeline
-
-
-
