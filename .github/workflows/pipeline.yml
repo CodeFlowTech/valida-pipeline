@@ -2,7 +2,7 @@ name: Pipeline
 
 on:
   push:
-    pull_request && branches:
+    branches:
       - main
       - staging
       - release/*
@@ -10,4 +10,4 @@ on:
 jobs:
 
   pipeline:
-    uses: sre/.github/workflows/pipeline.yml@main
+    uses: CodeFlowTech/sre/.github/workflows/pipeline.yml@main
