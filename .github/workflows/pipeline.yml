@@ -12,4 +12,3 @@ jobs:
   pipeline:
     uses: CodeFlowTech/sre/.github/workflows/pipeline.yml@main
 
-
